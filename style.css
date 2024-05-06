@@ -1,0 +1,28 @@
+.contenedor{
+        display: flex;
+        flex-direction: row;
+        background-color: #2f1515;
+        min-width: 3rem;
+        justify-content: space-around;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(82, 119, 106);
+    border: solid 1px black;
+    padding: 2rem;
+    width: 10rem;
+    height: 15rem;
+}
+
+.nombre {
+    color: antiquewhite;
+    font-size: larger;
+}
+
+    
+.imagen{
+    height: 13.4rem;
+}
